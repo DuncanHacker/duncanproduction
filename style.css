@@ -102,3 +102,12 @@
             background:#2d74c7;
         
         }
+
+        .games-grid {
+        
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        
+        }
